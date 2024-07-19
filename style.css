@@ -1,0 +1,40 @@
+*{
+    background-color: white;
+    margin: 0;
+    padding: 0;
+    
+  }
+  .top{
+    background-color: pink;
+    font-family: Trebuchet;
+  }
+  
+  .WhatisPre-IB{
+    background-color: pink; 
+    font-family: Lucida Sans;
+    border: black solid 3px;
+    margin: 20px;
+    
+    }
+  .WhatistheInternationalBaccalaureateDiplomaProgram{
+    background-color: beige;
+    font-family: Lucida Sans;
+    border: black solid 3px;
+    margin: 20px;
+  
+  }
+  .HowistheIBprogramdifferentfromTheAdvancedProgram{
+    background-color: beige;
+    font-family: Lucida Sans;
+    border: black solid 3px;
+    margin: 20px;
+  }
+  .Whatyouneedtoachievetomeettherequirements{
+    background-color: pink;
+    font-family: Lucida Sans;
+    border: black solid 3px;
+    margin: 20px;
+    
+    
+  }
+  
